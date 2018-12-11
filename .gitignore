@@ -3,3 +3,8 @@
 
 # Ada Library Information
 *.ali
+
+.coverage
+	.pytest_cache/
+	__pycache__/
+	calculator.pyc
